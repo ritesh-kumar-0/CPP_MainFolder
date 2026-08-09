@@ -1,0 +1,8 @@
+//Basic of string 
+
+#include<iostream>
+using namespace std;
+int main(){
+    string s = ("Hello Ritesh");
+    cout << s <<"";
+}
