@@ -15,4 +15,4 @@ int main(){
     }
 cout<<"The maximum element is : "<< maximum << endl;
 return 0;
-}cd
+};
